@@ -1,0 +1,22 @@
+{
+  "short_name": "Aarti",
+  "name": "Aarti Kumari — Java Full-Stack / Backend Developer",
+  "icons": [
+    {
+      "src": "favicon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#05060b",
+  "background_color": "#05060b"
+}
